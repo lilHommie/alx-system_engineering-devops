@@ -1,2 +1,2 @@
 #!/bin/bash
-change --from=guillame betty hello
+change --from=guillaume betty hello
