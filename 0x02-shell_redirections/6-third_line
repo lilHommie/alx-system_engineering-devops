@@ -1,3 +1,3 @@
 #!/bin/bash
-head --line=3 iact |
-tail --line=1
+head --lines=3 iact |
+tail --lines=1
